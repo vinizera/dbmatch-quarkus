@@ -65,3 +65,4 @@ If you want to learn more about building native executables, please consult <htt
 
 ## O que mais falta?
 
+- Conseguir realizar um commit pelo terminal
